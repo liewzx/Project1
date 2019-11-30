@@ -1,0 +1,103 @@
+﻿  Assembling P1.asm...
+C:\Irwin\SmallWin.inc(10): error A2008: syntax error : .
+C:\Irwin\SmallWin.inc(11): error A2008: syntax error : .
+C:\Irwin\SmallWin.inc(12): error A2008: syntax error : .
+C:\Irwin\SmallWin.inc(299): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(302): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(311): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(314): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(318): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(323): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(332): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(339): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(343): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(347): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(351): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(357): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(362): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(365): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(369): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(372): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(380): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(385): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(390): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(393): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(398): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(403): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(406): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(412): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(418): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(421): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(428): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(434): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(441): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(444): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(448): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(452): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(456): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(460): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(464): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(467): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(472): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(478): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(481): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(484): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(488): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(495): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(502): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(509): error A2008: syntax error : ,
+C:\Irwin\SmallWin.inc(516): error A2008: syntax error : near
+C:\Irwin\Irvine32.inc(22): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(66): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(71): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(76): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(82): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(87): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(93): error A2008: syntax error : ,
+C:\Irwin\Irvine32.inc(99): error A2008: syntax error : ,
+P1.asm(80): error A2008: syntax error : ,
+P1.asm(151): error A2008: syntax error : INVOKE
+P1.asm(157): error A2008: syntax error : INVOKE
+P1.asm(162): error A2008: syntax error : INVOKE
+P1.asm(168): error A2008: syntax error : INVOKE
+P1.asm(173): error A2008: syntax error : INVOKE
+P1.asm(179): error A2008: syntax error : INVOKE
+P1.asm(184): error A2008: syntax error : INVOKE
+P1.asm(190): error A2008: syntax error : INVOKE
+P1.asm(251): error A2070: invalid instruction operands
+P1.asm(251): error A2070: invalid instruction operands
+P1.asm(252): error A2070: invalid instruction operands
+P1.asm(252): error A2070: invalid instruction operands
+P1.asm(253): error A2070: invalid instruction operands
+P1.asm(253): error A2070: invalid instruction operands
+P1.asm(254): error A2070: invalid instruction operands
+P1.asm(254): error A2070: invalid instruction operands
+P1.asm(260): error A2070: invalid instruction operands
+P1.asm(260): error A2070: invalid instruction operands
+P1.asm(261): error A2070: invalid instruction operands
+P1.asm(261): error A2070: invalid instruction operands
+P1.asm(262): error A2070: invalid instruction operands
+P1.asm(262): error A2070: invalid instruction operands
+P1.asm(263): error A2070: invalid instruction operands
+P1.asm(263): error A2070: invalid instruction operands
+P1.asm(309): error A2070: invalid instruction operands
+P1.asm(309): error A2070: invalid instruction operands
+P1.asm(313): error A2008: syntax error : INVOKE
+P1.asm(319): error A2070: invalid instruction operands
+P1.asm(319): error A2070: invalid instruction operands
+P1.asm(320): error A2070: invalid instruction operands
+P1.asm(320): error A2070: invalid instruction operands
+P1.asm(344): error A2070: invalid instruction operands
+P1.asm(344): error A2070: invalid instruction operands
+P1.asm(345): error A2070: invalid instruction operands
+P1.asm(345): error A2070: invalid instruction operands
+P1.asm(349): error A2070: invalid instruction operands
+P1.asm(349): error A2070: invalid instruction operands
+P1.asm(350): error A2070: invalid instruction operands
+P1.asm(350): error A2070: invalid instruction operands
+P1.asm(351): error A2070: invalid instruction operands
+P1.asm(351): error A2070: invalid instruction operands
+P1.asm(364): error A2070: invalid instruction operands
+P1.asm(364): error A2070: invalid instruction operands
+P1.asm(365): fatal error A1012: error count exceeds 100; stopping assembly
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\P1.obj" /I "C:\Irwin" /W3 /errorReport:prompt  /TaP1.asm" exited with code 1.
